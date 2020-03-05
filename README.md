@@ -1,8 +1,13 @@
 
 
-Ref: https://youtu.be/it54tShOsuI {React.js Tic Tac Toe Game in 30 Minutes}
-GitHub base for this tutorial: https://github.com/basir/tic-tac-toe
-Author: Basir
+## Reference: 
+https://youtu.be/it54tShOsuI {React.js Tic Tac Toe Game in 30 Minutes}
+
+## GitHub base for this tutorial: 
+https://github.com/basir/tic-tac-toe
+
+## Author: 
+Basir
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
